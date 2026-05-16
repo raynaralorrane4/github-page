@@ -13,10 +13,6 @@ Projeto desenvolvido para a disciplina de Bootcamp 1 com o objetivo de apresenta
 - Página responsiva
 - Informações pessoais
 
-## Preview
-
-![Preview](./assets/Captura%20de%20Tela%202026-05-16%20às%2014.23.25.png)
-
 ## Aprendizados
 
 Neste projeto aprendi mais sobre:
