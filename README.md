@@ -15,7 +15,7 @@ Projeto desenvolvido para a disciplina de Bootcamp 1 com o objetivo de apresenta
 
 ## Preview
 
-![Preview](./assets/Captura de Tela 2026-05-16 às 14.23.25.png)
+![Preview](./assets/Captura%20de%20Tela%202026-05-16%20às%2014.23.25.png)
 
 ## Aprendizados
 
